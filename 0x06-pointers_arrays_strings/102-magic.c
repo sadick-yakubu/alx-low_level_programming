@@ -1,9 +1,4 @@
 #include <stdio.h>
-/**
- * main - make magic happen
- *
- * Return: 0
- */
 
 int main(void)
 {
